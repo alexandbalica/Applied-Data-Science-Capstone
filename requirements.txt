@@ -11,3 +11,4 @@ beautifulsoup4
 lxml
 notebook
 ipython-sql
+prettytable
